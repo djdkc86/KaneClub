@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Players>
+<Player name="Aaron Latimer">
+<quota>22</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Bill Phillips">
+<quota>23</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Al Martinez">
+<quota>31</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Cedric Lee">
+<quota>9</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Chris Thometz">
+<quota>15</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Craig Yester">
+<quota>0</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dan Connors">
+<quota>27</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dan Hurley">
+<quota>11</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dane Field">
+<quota>10</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Darryl Wassum">
+<quota>38</quota>
+<up_to_date>true</up_to_date>
+<weeks_behind>0</weeks_behind>
+</Player>
+<Player name="Brian Monroe">
+<quota>32</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dave Parrish">
+<quota>34</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="David Kucic">
+<quota>19</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Bruce Nakano">
+<quota>14</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dick Hawes">
+<quota>28</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Donavan Jones">
+<quota>26</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Alan Wataguchi">
+<quota>20</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Dustin Traylor">
+<quota>30</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Fai Sofa">
+<quota>29</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Frank Kahoohanohano">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Fred Schulz">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Freddy Fan">
+<quota>28</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Gaeton Cavarocchi">
+<quota>16</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Garrett Okubo">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Gary Theil">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Joe Hayes">
+<quota>23</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Mario Beekes">
+<quota>21</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="John Gafney">
+<quota>15</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Jason Palmer">
+<quota>26</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Jim Lindberg">
+<quota>30</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Jeff Loyd">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Jeff Borja">
+<quota>23</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Joe Boivin">
+<quota>22</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Jemory Rater">
+<quota>34</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="John Tamayo">
+<quota>15</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="John Harvell">
+<quota>29</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="John Sego">
+<quota>28</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Jeff Fiandt">
+<quota>34</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Phil Drogosch">
+<quota>17</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Kyle Sego">
+<quota>1</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Lester De Peralta">
+<quota>32</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Dan Gleason">
+<quota>30</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Greg Tacon">
+<quota>15</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Michael Fan">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Mike Di Lorenzo">
+<quota>27</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Mike Hruby">
+<quota>26</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Mike Ohnuma">
+<quota>36</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Nick Smallwood">
+<quota>24</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Phill Fox">
+<quota>21</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Ray Gorman">
+<quota>30</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Ray Romero">
+<quota>11</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="RC Payne">
+<quota>19</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Ronnie Terry">
+<quota>27</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Nick Devorak">
+<quota>9</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Robert Madow">
+<quota>19</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Keith Applegate">
+<quota>14</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Robert Chin">
+<quota>20</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Russ Harada">
+<quota>26</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>2</weeks_behind>
+</Player>
+<Player name="Scott Yoder">
+<quota>25</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Sean Ryan">
+<quota>17</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Steve Newhouse">
+<quota>14</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Steve  Kane">
+<quota>18</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Thomas Wassum">
+<quota>40</quota>
+<up_to_date>true</up_to_date>
+<weeks_behind>0</weeks_behind>
+</Player>
+<Player name="Todd Bedford">
+<quota>31</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Nick Jurski">
+<quota>20</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Peter Phengvath">
+<quota>7</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Mike Dilorenzo Sr">
+<quota>12</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Vaughn Kanenaga">
+<quota>21</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Sharon Fan">
+<quota>16</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+<Player name="Steven Richardson">
+<quota>12</quota>
+<up_to_date>false</up_to_date>
+<weeks_behind>3</weeks_behind>
+</Player>
+</Players>
