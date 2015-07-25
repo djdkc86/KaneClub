@@ -41,7 +41,7 @@ public class PickPlayers extends JFrame{
         skinMoney = 0;
         greenieMoney = 0;
         stabeMoney = 0;
-        this.superMoney = ssTxt.getWeeks();
+        this.superMoney = ssTxt.getAmount();
         this.goBack = true;
         makeSexy();
         
