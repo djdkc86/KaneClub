@@ -23,28 +23,25 @@ public class PickPlayers extends JFrame{
     
     public PickPlayers() throws FileNotFoundException{
         
-        ssTxt = new SuperSkinTxt();
-        this.weeksBehind = ssTxt.getWeeks();
-        skinMoney = 0;
-        greenieMoney = 0;
-        stabeMoney = 0;
-        this.superMoney = ssTxt.getAmount();
-        this.goBack = false;
-        makeSexy();
+        setUpStuff(false);
     }
     
     public PickPlayers(ArrayList<Player> playing) throws FileNotFoundException{
         
+        this.playing = playing;
+        setUpStuff(true);
+        
+    }
+    
+    private setUpStuff(boolean goBack) throws FileNotFoundException{
         ssTxt = new SuperSkinTxt();
         this.weeksBehind = ssTxt.getWeeks();
-        this.playing = playing;
         skinMoney = 0;
         greenieMoney = 0;
         stabeMoney = 0;
         this.superMoney = ssTxt.getAmount();
-        this.goBack = true;
+        this.goBack = goBack;
         makeSexy();
-        
     }
     
     private void makeSexy(){
