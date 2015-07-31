@@ -46,7 +46,7 @@ public class addPlayer extends JFrame{
     private class ButtonListener implements ActionListener{
         public void actionPerformed(ActionEvent e){
             p = new Player(player.getText(), Integer.parseInt(number.getText()), false);
-            ModifyXml mod = new ModifyXml(p.getName());
+            ModifyXml mod = new ModifyXml(p.getName(), p.getQuota());
             dispose();
             //b = new Bets(p, true);
         }
