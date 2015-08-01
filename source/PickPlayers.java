@@ -33,7 +33,7 @@ public class PickPlayers extends JFrame{
         
     }
     
-    private setUpStuff(boolean goBack) throws FileNotFoundException{
+    private void setUpStuff(boolean goBack) throws FileNotFoundException{
         ssTxt = new SuperSkinTxt();
         this.weeksBehind = ssTxt.getWeeks();
         skinMoney = 0;
