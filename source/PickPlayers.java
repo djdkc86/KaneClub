@@ -63,7 +63,7 @@ public class PickPlayers extends JFrame{
         panel = new JPanel(new GridLayout(players.size()/6, 6));
         
         for(Player p: players){
-            JButton btn = new JButton(p.getName());
+            JButton btn = new JButton(p.getName() + " (" + p.getQuota()+")" );
             btn.addActionListener(new PlayerButtonListener());
             panel.add(btn);
         }
