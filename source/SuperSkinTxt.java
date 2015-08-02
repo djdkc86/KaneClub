@@ -4,7 +4,7 @@ import java.util.*;
 import java.text.*;
 
 public class SuperSkinTxt{
-    private final String FILENAME = "superskin.txt";
+    private final String FILENAME = "/Users/djdrty/Desktop/KaneClub/superskin.txt";
     private int amount, weeks;
     
     public SuperSkinTxt(){

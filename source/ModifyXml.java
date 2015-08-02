@@ -44,7 +44,7 @@ public class ModifyXml{
         try{
             DocumentBuilderFactory docFac = DocumentBuilderFactory.newInstance();
             DocumentBuilder docB= docFac.newDocumentBuilder();
-            Document doc = docB.parse("players.xml");
+            Document doc = docB.parse("/Users/djdrty/Desktop/KaneClub/players.xml");
             Node players = doc.getFirstChild();
             
             if(id == -100){
@@ -85,7 +85,7 @@ public class ModifyXml{
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
             DOMSource source = new DOMSource(doc);
-            StreamResult result = new StreamResult(new File("players.xml"));
+            StreamResult result = new StreamResult(new File("/Users/djdrty/Desktop/KaneClub/players.xml"));
             transformer.transform(source, result);
         }
         catch (ParserConfigurationException pce) {
@@ -103,7 +103,7 @@ public class ModifyXml{
         try{
             DocumentBuilderFactory docFac = DocumentBuilderFactory.newInstance();
             DocumentBuilder docB= docFac.newDocumentBuilder();
-            Document doc = docB.parse("players.xml");
+            Document doc = docB.parse("/Users/djdrty/Desktop/KaneClub/players.xml");
             Node players = doc.getFirstChild();
             
             
@@ -132,7 +132,7 @@ public class ModifyXml{
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
             DOMSource source = new DOMSource(doc);
-            StreamResult result = new StreamResult(new File("players.xml"));
+            StreamResult result = new StreamResult(new File("/Users/djdrty/Desktop/KaneClub/players.xml"));
             transformer.transform(source, result);
         }
         catch (ParserConfigurationException pce) {

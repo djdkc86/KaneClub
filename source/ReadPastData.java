@@ -13,7 +13,7 @@ public class ReadPastData{
     PastPlayer player;
     
     public ReadPastData(String name){
-        this.fileName = name+".txt";
+        this.fileName = "/Users/djdrty/Desktop/KaneClub/"+name+".txt";
         this.date = name;
         front9 = new int[9];
         back9 = new int[9];

@@ -4,7 +4,7 @@ import java.util.*;
 import java.text.*;
 
 public class DatesTxt{
-    private final String FILENAME = "dates.txt";
+    private final String FILENAME = "/Users/djdrty/Desktop/KaneClub/dates.txt";
     private int size;
     private String [] dates;
     private Date date;
@@ -42,11 +42,11 @@ public class DatesTxt{
             file.createNewFile();
         }
         
-        BufferedWriter bw = new BufferedWriter(new FileWriter(file.getName(), true));
-        bw.newLine();
-        bw.write(df.format(date));
-        bw.flush();
-        bw.close();
+        PrintWriter pw = new PrintWriter(new FileOutputStream(file, true));
+        //bw.newLine();
+        pw.append("\n"+df.format(date));
+        pw.flush();
+        pw.close();
     }
     
     public int getSize(){

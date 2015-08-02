@@ -90,7 +90,7 @@ public class PickPlayers extends JFrame{
     }
     
     private void generateList(){
-        XMLReader read = new XMLReader("players.xml");
+        XMLReader read = new XMLReader("/Users/djdrty/Desktop/KaneClub/players.xml");
         players = (ArrayList<Player>)read.playerList;
         Collections.sort(players);
         for(Player p: players){

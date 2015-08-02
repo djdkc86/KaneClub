@@ -9,7 +9,7 @@ public class CreatePastData{
     private int madeMoney;
     
     public CreatePastData(String fileName, ArrayList<PlayerPanel> people, int madeMoney, String s, String st, String g, String ss) throws FileNotFoundException{
-        this.fileName = fileName;
+        this.fileName = "/Users/djdrty/Desktop/KaneClub/"+fileName;
         scores = new ArrayList<> (people.size());
         for(PlayerPanel p: people){
             scores.add(p);
