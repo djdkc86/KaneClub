@@ -126,7 +126,7 @@ public class GroupScorecard extends JFrame{
         s = new JLabel("Skins: $"+skin);
         st = new JLabel("Stableford: $"+stabe+" ("+firstMoney+"-"+secondMoney+"-"+thirdMoney+")");
         g = new JLabel("Greenies: $"+greenie);
-        ss = new JLabel("Super Skin: $:"+supers);
+        ss = new JLabel("Super Skin: $"+supers);
         moneyPan.add(s);
         moneyPan.add(st);
         moneyPan.add(g);

@@ -63,7 +63,7 @@ public class PickPlayers extends JFrame{
         panel = new JPanel(new GridLayout(players.size()/6, 6));
         
         for(Player p: players){
-            JButton btn = new JButton(p.getName() + " (" + p.getQuota()+")" );
+            JButton btn = new JButton(p.getName() + " (" + p.getQuota() + ")");
             btn.addActionListener(new PlayerButtonListener());
             panel.add(btn);
         }
@@ -128,12 +128,14 @@ public class PickPlayers extends JFrame{
     
     private class PlayerButtonListener implements ActionListener{
         public void actionPerformed(ActionEvent e){
+            String tester = e.getActionCommand();
+            tester = tester.substring(0, tester.indexOf("(") - 1);
             isSet = false;
             int index = 0;
             if(playing.size() != 0){
             playingloop:
                 for(Player p : playing){
-                    if(p.getName() != null && p.getName().contains(e.getActionCommand())){
+                    if(p.getName() != null && p.getName().contains(tester)){
                         if(p.isInSuperSkin()){
                             p.setSuperSkin(p.getSuperSkin()-5);
                         }
@@ -146,7 +148,7 @@ public class PickPlayers extends JFrame{
             }
             if(!isSet){
                 for(Player p : players){
-                    if(p.getName() != null && p.getName().contains(e.getActionCommand())){
+                    if(p.getName() != null && p.getName().contains(tester)){
                         playing.add(betsPopup(p, false));
                     }
                 }
